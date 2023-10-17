@@ -1,0 +1,77 @@
+\begin{thebibliography}{AFT17}
+
+\bibitem[AFT17]{aft1}
+David Ayala, John Francis, and Hiro~Lee Tanaka.
+\newblock Local structures on stratified spaces.
+\newblock {\em Advances in Mathematics}, 307:903--1028, 2017.
+
+\bibitem[Bor53]{borel}
+Armand Borel.
+\newblock Sur la cohomologie des espaces fibr{\'e}s principaux et des espaces
+  homogenes de groupes de lie compacts.
+\newblock {\em Annals of Mathematics}, pages 115--207, 1953.
+
+\bibitem[Car16]{carlson}
+Jeffrey~D Carlson.
+\newblock The borel equivariant cohomology of real grassmannians.
+\newblock {\em arXiv preprint arXiv:1611.01175}, 2016.
+
+\bibitem[CK13]{ck13}
+Luis Casian and Yuji Kodama.
+\newblock On the cohomology of real grassmann manifolds.
+\newblock {\em arXiv preprint arXiv:1309.5520}, 2013.
+
+\bibitem[GH78]{griffiths}
+Phillip Griffiths and Joseph Harris.
+\newblock {\em Principles of algebraic geometry}.
+\newblock Wiley Online Library, 1978.
+
+\bibitem[GP10]{guillemin}
+Victor Guillemin and Alan Pollack.
+\newblock {\em Differential topology}, volume 370.
+\newblock American Mathematical Soc., 2010.
+
+\bibitem[Hat02]{hatcher}
+Allen Hatcher.
+\newblock {\em Algebraic Topology}.
+\newblock Cambridge University Press, 2002.
+
+\bibitem[He16]{he}
+Chen He.
+\newblock Equivariant cohomology rings of the real flag manifolds.
+\newblock {\em arXiv preprint arXiv:1610.07968}, 2016.
+
+\bibitem[Jun79]{jungkind}
+Stefan~Jorg Jungkind.
+\newblock {\em Some computations of the homology of real grassmannian
+  manifolds}.
+\newblock PhD thesis, University of British Columbia, 1979.
+
+\bibitem[Mat12]{mather}
+John Mather.
+\newblock Notes on topological stability.
+\newblock {\em Bulletin of the American Mathematical Society}, 49(4):475--506,
+  2012.
+
+\bibitem[MS75]{characteristic}
+John~W Milnor and James~D Stasheff.
+\newblock {\em Characteristic classes}, volume~76.
+\newblock Annals of mathematics studies, 1975.
+
+\bibitem[Sad17]{sadykov}
+Rustam Sadykov.
+\newblock Elementary calculation of the cohomology rings of real grassmann
+  manifolds.
+\newblock {\em Pacific Journal of Mathematics}, 289(2):443--447, 2017.
+
+\bibitem[Tak62]{takeuchi}
+Masaru Takeuchi.
+\newblock On pontrjagin classes of compact symmetric spaces.
+\newblock {\em J. Fac. Sci. Univ. Tokyo Sect. I}, 9(1962):313--328, 1962.
+
+\bibitem[Tu08]{manifolds}
+Loring~W. Tu.
+\newblock {\em An introduction to manifolds}.
+\newblock Springer New York, 2008.
+
+\end{thebibliography}
